@@ -1308,6 +1308,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [webdesignledger.com](http://webdesignledger.com)
 - [webgains.com](http://webgains.com)
 - [webhostbox.net](http://webhostbox.net)
+- [webhostingbuddy.com](https://webhostingbuddy.com)
 - [webhostingtalk.com](http://webhostingtalk.com)
 - [webmastersitesi.com](http://webmastersitesi.com)
 - [web-opinions.com](http://web-opinions.com)
